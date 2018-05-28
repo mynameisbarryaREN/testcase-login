@@ -1,0 +1,27 @@
+{
+  "name": "testcase-login",
+  "version": "1.0.0",
+  "description": "Basic Login Test Case",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynameisbarryaREN/testcase-login.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Dran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mynameisbarryaREN/testcase-login/issues"
+  },
+  "homepage": "https://github.com/mynameisbarryaREN/testcase-login#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
